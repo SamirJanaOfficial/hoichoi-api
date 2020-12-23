@@ -1,8 +1,8 @@
 module.exports = {
     // Enter your Hoichoi Credentials
 
-    email: "you@email.com",
-    password: "nubpassword",
+    email: "kallolkrroy@gmail.com",
+    password: "79510000",
 
     // Enter here any random alphabet string
     randomString: "abcDgfHoicjsoeij"
