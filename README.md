@@ -72,7 +72,7 @@
 - Clone this Repository
 
 ```
-git clone https://github.com/viewlift-ripper/hoichoi-api.git
+git clone https://github.com/SamirJanaOfficial/hoichoi-api.git
 ```
 
 - Go to the Cloned Directory
